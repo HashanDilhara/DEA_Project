@@ -10,7 +10,7 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background: linear-gradient(to left, red, black);
+            background: linear-gradient(to left, rgb(0, 102, 255), black);
             color: white;
         }
         h1{
