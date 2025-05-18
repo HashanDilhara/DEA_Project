@@ -5,7 +5,7 @@
 }
 
 body {
-	background: var(--theme-bg);
+	background: linear-gradient(to bottom, rgb(0, 0, 0), rgb(39, 45, 225));
 	/* #f6f5f7; */
 	display: flex;
 	justify-content: center;
